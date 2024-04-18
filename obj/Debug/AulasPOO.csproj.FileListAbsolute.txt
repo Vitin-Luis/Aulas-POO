@@ -1,0 +1,8 @@
+C:\DevC\AulasPOO\bin\Debug\AulasPOO.exe.config
+C:\DevC\AulasPOO\bin\Debug\AulasPOO.exe
+C:\DevC\AulasPOO\bin\Debug\AulasPOO.pdb
+C:\DevC\AulasPOO\obj\Debug\AulasPOO.csproj.AssemblyReference.cache
+C:\DevC\AulasPOO\obj\Debug\AulasPOO.csproj.SuggestedBindingRedirects.cache
+C:\DevC\AulasPOO\obj\Debug\AulasPOO.csproj.CoreCompileInputs.cache
+C:\DevC\AulasPOO\obj\Debug\AulasPOO.exe
+C:\DevC\AulasPOO\obj\Debug\AulasPOO.pdb
